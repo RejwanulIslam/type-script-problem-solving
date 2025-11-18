@@ -1,4 +1,4 @@
-Interface vs Type পার্থক্য:
+**Interface vs Type পার্থক্য:**
 1. Interface: শুধু Object-এর জন্য তৈরি — Type আরও বহুমুখী
 Interface দিয়ে মূলত:
 
@@ -22,7 +22,7 @@ Interface দিয়েও function define করা যায়, কিন্ত�
 
 
 
- keyof এর ব্যবহার
+ **keyof এর ব্যবহার:**
  1. Object-এর valid key পাওয়া
  2. Type-safe function create করা
  3. Dynamic property access type-safe করা
